@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "gym",
+      "email": "akashpfatil@gmail.com",
+      "address": "dfsghhhg",
+      "phone": "vxcz",
+      "id": "N1qwqf2"
+    },
+    {
+      "name": "akash",
+      "email": "akashpatils@gmail.com",
+      "address": "kolhapur",
+      "phone": "9764566261",
+      "id": "QBquffb"
+    }
+  ],
+  "car": [
+    {
+      "Car-name": "koleos",
+      "Model": "2017",
+      "color": "blue",
+      "manufacture": "renault"
+    },
+    {
+      "Car-name": "Aria",
+      "Model": "2015",
+      "color": "white",
+      "manufacture": "TATA"
+    },
+    {
+      "Car-name": "Captiva",
+      "Model": "2014",
+      "color": "black",
+      "manufacture": "cheverolet"
+    }
+  ]
+}
